@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanghn's Blog</title>
+    <description>很高兴能在这里与你分享我对技术和生活的思考。</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 19 Jan 2019 22:20:15 +0800</pubDate>
+    <lastBuildDate>Sat, 19 Jan 2019 22:20:15 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Hello Jekyll</title>
+        <description>&lt;h2 id=&quot;用jekyll搭建了个静态博客&quot;&gt;用Jekyll搭建了个静态博客&lt;/h2&gt;
+&lt;p&gt;折腾了大半天终于用Jekyll把博客折腾好了&lt;br /&gt;
+然后用了个不错的主题&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/01/19/test.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/19/test.html</guid>
+        
+        <category>Jekyll</category>
+        
+        
+        <category>技术</category>
+        
+      </item>
+    
+  </channel>
+</rss>
