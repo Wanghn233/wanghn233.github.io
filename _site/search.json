@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "第7届蓝桥杯题解",
+      "tags"     : "蓝桥杯",
+      "url"      : "/2019/02/19/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E9%A2%98%E8%A7%A3.html"
+    } ,
+  
+    {
+      "title"    : "背包问题九讲 学习笔记",
+      "tags"     : "DP 背包",
+      "url"      : "/2019/01/21/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.html"
+    } ,
+  
+    {
+      "title"    : "HDU 1114 Piggy-Bank",
+      "tags"     : "DP 背包",
+      "url"      : "/2019/01/21/HDU-1114.html"
+    } ,
+  
+    {
+      "title"    : "HDU 1069 Super Jumping! Jumping! Jumping!",
+      "tags"     : "DP",
+      "url"      : "/2019/01/21/HDU-1087.html"
+    } ,
+  
+    {
       "title"    : "HDU 1069 Monkey and Banana",
       "tags"     : "DP",
       "url"      : "/2019/01/20/HDU-1069.html"
