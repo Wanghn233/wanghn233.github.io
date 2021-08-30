@@ -40,7 +40,7 @@ valine_comment:
 # app_key
   leancloud_appkey: BRfKPyb8RVTq7Se1CGhnH8Nu
 # placeholde
-  placeholder: “说两句~"
+  placeholder: '说两句吧~'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
