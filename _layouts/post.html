@@ -155,8 +155,14 @@
           el: '#vcomments',
           app_id: '{{ site.valine_comment.leancloud_appid }}',
           app_key: '{{ site.valine_comment.leancloud_appkey }}',
-          placeholder:'{{ site.valine_comment.placeholder }}'
-      });</script>
+          placeholder: '{{ site.valine_comment.placeholder }}',
+          avatar: 'retro',
+          meta: ['nick','mail'],
+          visitor: true,
+          enableQQ: true,
+          requiredFields: ['nick']
+      });
+  </script>
   {% endif %}
   
   <script src="/assets/js/prism.js"></script>
