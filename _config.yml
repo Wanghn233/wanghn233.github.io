@@ -19,7 +19,7 @@ footer:
 # Author 配置博主信息
 author: '王浩南'
 nickname: 'Wanghn'
-bio: '学生'
+bio: '打工人'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -32,6 +32,15 @@ nightMode: true
 comments:
   disqus: false
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+
+valine_comment:
+  enable: true
+# app_id
+  leancloud_appid: bwLz12eIQdqgU3uJDgkMhPsR-gzGzoHsz
+# app_key
+  leancloud_appkey: BRfKPyb8RVTq7Se1CGhnH8Nu
+# placeholde
+  placeholder: “说两句~"
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
